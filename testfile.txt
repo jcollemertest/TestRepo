@@ -1,4 +1,5 @@
 This is a test
-Second line
-Third line
+Replaced the second line
+Third line is found here
+Added a line towards the end
 Last line
