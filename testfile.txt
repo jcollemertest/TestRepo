@@ -3,3 +3,4 @@ Replaced the second line
 Third line is found here
 Added a line towards the end
 Last line
+Added a line to test SCM trigger
